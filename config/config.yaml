@@ -93,7 +93,5 @@ platforms:
     name: "少数派"
   - id: "juejin"
     name: "稀土掘金"
-  - id: "smzdm"
-    name: "什么值得买"
   - id: "nowcoder"
     name: "牛客"
